@@ -39,3 +39,5 @@ To be updated
 ## Summary
 
 The datasets provided by purwadika is transformed through this exercise and is "analytical ready"
+
+You can see the [cleaned-data](https://drive.google.com/drive/folders/1bB0RRTDukw8CCaJZkq833_lWbmJDTXUV?hl=ID) here
